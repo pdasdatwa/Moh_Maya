@@ -1,0 +1,1 @@
+"""Moh Maya application package."""

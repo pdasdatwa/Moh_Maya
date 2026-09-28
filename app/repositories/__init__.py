@@ -1,0 +1,1 @@
+"""World-scoped persistence accessors."""
